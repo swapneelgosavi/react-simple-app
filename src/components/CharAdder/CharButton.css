@@ -1,0 +1,17 @@
+button {
+   background-color: darkblue;
+   padding: 15 px 30px;
+   font-size: 16px;
+   width: 100px;
+   color: white;   
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.name {
+   font-size : 35px;
+   padding : 5px 5px;
+   background-color: khaki;
+   margin-top: 50px;
+}
+
